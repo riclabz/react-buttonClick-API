@@ -1,0 +1,8 @@
+h1, p, th, td {
+  font-family: Lato;
+  color: green;
+}
+button {
+  margin-right: 10px;
+  margin-top: 20px;
+}
